@@ -1,4 +1,3 @@
-//header file
 #include <iostream>
 #include <string>
 #include<ctime>
