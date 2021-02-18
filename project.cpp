@@ -762,6 +762,7 @@ void show_project_settings(int command)
 
 void logout()
 {
+    return ;
 }
 
 void change_member_numbers()
