@@ -1,7 +1,7 @@
 #include "project.hpp"
 int num_users = 0;
 
-int s_login, a, project_setting_command, b, x, ID = 0, id = 0, selected_project;//global variables
+int s_login, a, project_setting_command, b, x, ID = 0, id = 0, selected_project;
 USER users[100];
 void login_menu(int command)
 {
